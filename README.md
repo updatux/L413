@@ -8,4 +8,5 @@ Le programme vous demande un mot de passe et le crypt en SHA512 puis le converti
 # Syntaxe
 
 python l413.py -e TEXT // Pour le crypter
+
 python l413.py -d TEXTCRYPTER CLESECRETTE // Pour le décrypter
