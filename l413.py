@@ -1,7 +1,7 @@
 import random, getpass, hashlib, sys, string
 
 """
-Name    : L413 (Old Jcrypt)
+Name    : L413 (precursor of Jcrypt)
 Version : 1.0
 Type    : Cryptage
 Author  : Updatux (0v3rl0w)
