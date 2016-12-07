@@ -1,10 +1,10 @@
 import random, getpass, hashlib, sys, string
 
 """
-Name    : L413
-Version : 1.0.0
+Name    : L413 (Old Jcrypt)
+Version : 1.0
 Type    : Cryptage
-Author  : Updatux
+Author  : Updatux (0v3rl0w)
 """
 
 def encrypt(text):
